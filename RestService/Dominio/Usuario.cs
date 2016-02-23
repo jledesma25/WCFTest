@@ -28,13 +28,7 @@ namespace RestService.Dominio
         [DataMember]
         public string Respuesta { get; set; }
 
-        //Comentario
-
-        //Otro comentario
-
-        //Cuarto commit
-
-        //Quinto commit
+        //Dos
 
     }
 }
